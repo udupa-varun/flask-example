@@ -1,0 +1,26 @@
+.git
+
+# Pyinstaller
+*.spec
+build/
+dist/
+
+# Cache
+*__pycache__*
+
+# Jupyter notebooks
+.ipynb_checkpoints
+
+# Virtual Environment Stuff
+.venv
+gitActions/
+
+output.log
+
+# IDE related
+.vscode/
+
+# Testing Stuff
+*coverage*
+.cache
+htmlcov/
